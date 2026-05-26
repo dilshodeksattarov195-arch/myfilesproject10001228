@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cacheverify",
+        "uuid": 12137552,
+        "checksum": "wetmkv"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
